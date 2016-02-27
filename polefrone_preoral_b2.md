@@ -208,7 +208,7 @@ structures.
 In the context of this wholesale destruction (or, perhaps, destruction by
 wholesale), the "frontier" becomes a concept for resistance. It only exists in
 the minds of the farmers who believe that, by voluntary enclosure and by
-recusing themselves from the global market, they can hold on to the autonomous
+removing themselves from the global market, they can hold on to the autonomous
 communal structures. This in turn requires the invention of new political and
 legal structures. But these structures can only become *actual* rather than
 merely speculative with the political agency enabled by the low-density
@@ -216,10 +216,55 @@ frontier. The ultimate defeat of these farmers---the infiltration and
 destruction of their movement for change---becomes coextensive with the final
 destruction of the frontier in the Joaquin Valley.
 
-Perhaps more accurately, the "frontier" as the glorification of low population
-density is most distinctly evident in the cultural production it inspires:
-Presley's largely hypothetical "Epic of the West," which is abandoned when the
-truth of global markets becomes inescapable.
+The "frontier" appears as the glorification of low population density, as is
+most distinctly evident in the cultural production this lack of density
+inspires: Presley's largely hypothetical "Epic of the West," which is abandoned
+when the truth of global markets becomes inescapable. Arriving in San Joaquin
+from the highly developed East Coast, he deduces "that his poem should be of
+the West, that world's frontier of Romance, where a new race, a new
+people---hardy, brave, and passionate---were building an empire" (7). The
+frontier, because it is on the cusp of being lost, becomes the "frontier of
+Romance." It also becomes predicated on the construction of a new society by
+"new people," establishing an outsiders view of the same frontier society
+McTeague understands as his true home.
+
+The destruction of this frontier vision is just as clearly correlated with
+density. The power and inspiration Presley draws from the emptiness of the
+frontier, a perspective on high from which he imagines himself to have
+"dominated the entire country," is punctuated by images of agricultural density
+in the production systems that enable *human* density (34). From his vantage
+point, he also sees a "mass" of sheep, "compact, solid, slowly moving...huge
+without form, like a thick-pressed growth of mushrooms, spreading out in all
+directions over the earth" (22). This mass is obliterated when, finding a seam
+in a fence, they wander onto the train tracks and are slaughtered *en masse* by
+Shelgrims railroad (35). The image is repeated, with a more obvious narrative
+function, later: the farmers engage in a jack-rabbit hunt, the strategy for
+which is to drive the jack rabbits out from their individual existences,
+mobilize them into a herd, enclose them, and begin the slaughter. The process
+is described: "Denser and denser grew the throng. In all directions nothing was
+to be seen but the loose mass of the moving jacks....It was no longer a herd
+covering the earth. It was a sea, whipped into confusion, tossing incessantly,
+leaping, falling, agitated by unseen forces" (343). This situation that ends in
+slaughter prefigures the later gathering of "The League" of organized farmers,
+in what seems to be the prelude to revolution: rallied into life, the farmers
+march towards the center of San Joaquin, where "great, tumultuous heavings,
+like ground-swells of an incoming tide, surged over and through the multitude"
+as they are pushed toward the enclosure of the Opera House (374). When they
+arrive, a carefully calculated counter-revolutionary campaign discredits the
+speakers and disperses the crowd, symbolically slaughtering the revolutionary
+ambitions of the crowd. Just as the increasing density of sheep and jack
+rabbits leads to their slaughter, the pastoral life of low-density communities
+are destroyed as soon as they encounter conditions of population density
+themselves.
+
+Every image of density is also an image of loss: the loss of frontier
+communities which are always glorified and which always rely on political
+agency that is only possible in sparsely populated lands. It is impossible to
+separate the increase in density from the rise of a globalized division of
+labor: the novel ends with the establishment of a global wheat market. But
+Norris does not demonstrate what the creation of community looks like when
+carved out of urban density---on Turner's "European" frontier. For that
+depiction, we have to turn to Roth.
 
 ### Immigrants and High-Density Frontier Communities
 
