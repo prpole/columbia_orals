@@ -27,13 +27,36 @@ City in 1907. The geographical frontier was lost long before they
 arrived---declared dead in the preamble to the 1890 census (Turner 199). But
 despite the utter absence of its natural and geographic instantiations, the
 frontier exists for Roth's immigrants as a necessary commitment to invent new
-social formations that mediate their existing cultural identity and material
-conditions that are entirely alien to them. 
+social formations that mediate between their existing cultural identity and
+material conditions of life that are entirely alien to them. 
 
 Population density, and the concomitant changes in the material conditions of
 sustenance and production, define the difference between the frontier as it
-exists in the work of these three authors. On one pole, Norris's *McTeague* and
-*The Octopus* 
+exists in the work of these three authors. In all of their work, the actual or
+conceptual frontier gives rise to an *act of imaginative social projection* on
+the part of the characters or the narrative itself. But the gradient of density
+from Norris's work to Roth's corresponds to the attainability of these new
+formations and the perceived agency in resisting the dominant culture. Density,
+then, finally determines the amount of agency granted to the speculative mode
+of political creativity that the presence of a frontier tends to inspire.
+
+On one pole, Norris's *McTeague* and *The Octopus* depict the search for the
+lost frontier for those whose spatial imagination is defined by areas of low
+population density. His American-born rural workers keep the American West and
+its ethos alive, although not necessarily stable, until their community
+structure is dismantled by the intervention of a global system based on
+density. On the other pole is Henry Roth's *Call It Sleep*, in which the only
+choices presented by what we might call the "full frontier" are one of two
+dominant cultures: assimilation to American culture or identification with an
+enclave of immigrant culture. The attempt to inhabit density without such
+acquiescence is nearly suicidal for individual and community alike. By
+suspending density, and thus the frontier, in a fixed state, Gilman presents a
+middle way, in which the dominant culture is subject to a constant process of
+inventive refinement without engaging in capitalist forms of unrestrained
+growth. Nevertheless, it is a middle state of political agency in the extent to
+which it makes dissensus impossible.
+
+### Materiality and Social Formation in the Frontier Thesis
 
 >the frontier is the outer edge of the wave-- the meeting point between savagery
 and civilization.... The American frontier is sharply distinguished from the
@@ -68,15 +91,7 @@ act of mind arising in conditions of increasing density---a scramble to regain
 what is lost---and what is lost tends to be inflected with European communal
 structures[, especially in the case of immigrants.] 
 
-# Part I: Community Without Density on the Vanishing Frontier
-
-Order: Norris---frontier communities, structures of communities, the sense of
-*loss*? Always occurs in the 
-
-The west
-
-- In part 3: Octopus: dialectic of local and global expressed in the railroad whistle that
-    begins the novel; cf L. Marx, Machine in the Garden
+### Community Without Density on the Vanishing Frontier
 
 McTeague concludes with the flight from high-density, settled city to the
 low-density frontier in which McTeague's brutish, uncivilized nature finds the
@@ -104,7 +119,35 @@ density is most distinctly evident in the cultural production it inspires:
 Presley's largely hypothetical "Epic of the West," which is abandoned when the
 truth of global markets becomes inescapable.
 
-# Part II: Limited Density, Frozen Frontier
+# Immigrants and High-Density Frontier Communities
+
+Roth: reclaiming European community in high-density situations. 
+
+Moment of maximum density: the entire community becomes focused in a single
+body, a moment resulting in death. Replaces localism and European communalism
+as the source of meaning. Mechanization/modernization of community
+
+It is impossible to reasonably sustain Turner's differentiation between the
+European and the American frontier for long, however, when we recognize that
+for many twentieth-century immigrants to America, the conditions necessary for
+the European, high-density "frontier" they left behind was mirrored in the
+high-density urban environments into which they arrived. In Henry Roth's
+depiction of this situation in *Call It Sleep*, the frontier is not threatened
+and vanishing by a global system of density, as it is in Norris's novels, nor
+is it arrested in a utopian state of purity as it is in Gilman's. For Roth's
+European-American, the frontier is simultaneously always already lost as an
+object of desire and paradoxically relocated onto Europe itself. But this
+ultimate unattainability of the frontier results in reproduction of the
+European communalism that frontier communities mimic, in the highest-density
+conditions imagineable. In these conditions of high density, globalization is
+in a dialectical relationship with localism: even as it dismantles the
+communities on which the very concept of "local" rely, it reproduces them in
+compressed miniature; these communities in turn both further the progress of
+globalization by contributing to its division of labor and make that globality
+more visible by sheer concentration of difference.
+
+
+# Limited Density, Frozen Frontier
 
 Gilman: reconstruction of the frontier, narratively; invocation of the frontier
 in history and apocalyptic event. Limitation of density as a function of
@@ -132,33 +175,6 @@ and into civilization.
 
 ...
 
-
-# Part III: Immigrants and High-Density Frontier Communities
-
-Roth: reclaiming European community in high-density situations. 
-
-Moment of maximum density: the entire community becomes focused in a single
-body, a moment resulting in death. Replaces localism and European communalism
-as the source of meaning. Mechanization/modernization of community
-
-It is impossible to reasonably sustain Turner's differentiation between the
-European and the American frontier for long, however, when we recognize that
-for many twentieth-century immigrants to America, the conditions necessary for
-the European, high-density "frontier" they left behind was mirrored in the
-high-density urban environments into which they arrived. In Henry Roth's
-depiction of this situation in *Call It Sleep*, the frontier is not threatened
-and vanishing by a global system of density, as it is in Norris's novels, nor
-is it arrested in a utopian state of purity as it is in Gilman's. For Roth's
-European-American, the frontier is simultaneously always already lost as an
-object of desire and paradoxically relocated onto Europe itself. But this
-ultimate unattainability of the frontier results in reproduction of the
-European communalism that frontier communities mimic, in the highest-density
-conditions imagineable. In these conditions of high density, globalization is
-in a dialectical relationship with localism: even as it dismantles the
-communities on which the very concept of "local" rely, it reproduces them in
-compressed miniature; these communities in turn both further the progress of
-globalization by contributing to its division of labor and make that globality
-more visible by sheer concentration of difference.
 
 # Conclusion: The White Frontier
 
