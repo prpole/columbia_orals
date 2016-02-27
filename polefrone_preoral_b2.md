@@ -440,21 +440,27 @@ need for dissensus in a truly free system.
 The frontier, density, and political agency exist in a complex interplay in
 these three novels and, to the extent we take these as representative evidence,
 in the historical development of American modernity. Taken in concert, these
-novelists show us that 
+novelists show us that when the geographical frontier disappeared in its truest
+sense, it continued to exist as an imaginative yearning for the ability to
+create new social structures and exercise collective and individual political
+will. The density in which this imaginative yearning arises determines both its
+character and the extent to which it can be enacted on actual spaces in actual
+practice. 
 
-[^white-frontier]: It is no coincidence that a hermeneutic principle criticized
-for its indifference to history's victims fails to account for non-white
-literary histories. It hardly needs to be reiterated (and yet needs always to
-be reiterated despite) that the "hither edge of free land" in Turner's thesis
-had on the other side of it, not empty space, but societies that fall under the
-categorization of "savagery" in this estimation. But also absent from this
-frontier theory of literary density are the narratives of the invisible labor
-force pushing the frontier forward---a movement that, in Turner's hands, is
-entirely naturalized and without mechanism or agent, as though the frontier
-border were literally blown forth by the winds of "progress."  For black
-voices, a different perspective is required, but perhaps not an entirely new
-paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.] 
-
+These conclusions have serious gaps, one of which must be addressed. It is no
+coincidence that a hermeneutic principle criticized for its indifference to
+history's victims fails to account for non-white literary histories. It hardly
+needs to be reiterated (and yet needs always to be reiterated despite) that the
+"hither edge of free land" in Turner's thesis had on the other side of it, not
+empty space, but societies that fall under the categorization of "savagery" in
+this estimation. But also absent from this frontier theory of literary density
+are the narratives of the invisible labor force pushing the frontier
+forward---a movement that, in Turner's hands, is entirely naturalized and
+without mechanism or agent, as though the frontier border were literally blown
+forth by the winds of "progress."  For black voices, a different perspective is
+required, but perhaps not an entirely new paradigm. For black communities,
+there is a more fundamental limitation to political agency, one that takes
+effect well before the limitations described in this paper can be reached.
 
 [^soil]: Bellamy Foster
 
