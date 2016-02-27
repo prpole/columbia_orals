@@ -343,50 +343,117 @@ maintain a cultural identity in new material conditions, or to create an
 entirely new form that shares aspects of both---is suppressed by the inexorable
 forces of density.[^globalization-dialectic]
 
-### Limited Density, Frozen Frontier
+### Limited Density, Frozen Frontier: Gilman
 
-Gilman: reconstruction of the frontier, narratively; invocation of the frontier
-in history and apocalyptic event. Limitation of density as a function of
-carrying capacity. 
+Charlotte Perkins Gilman, as she is wont to do, establishes a middle place
+between the attempt to seize the disappearing frontier in low-density
+communities and the attempt to cope with the lack of one in high-density urban
+settings. Because her utopian novel dismantles distinctions between human and
+non-human nature, the concept of population density has to be understood in
+terms of the ecological concept of carrying capacity: the maximum amount of a
+given population an ecological niche is able to support, based on the amount of
+space, availability of nutrients, and presence of natural predators. In this
+light, we can consider the frontier as an infinite expansion of humanity's
+niche. But expansionism is not so much an increase in the relevant carrying
+capacity as it is a total circumvention of it. Infinite expansion of the global
+distribution network makes natural conditions irrelevant as a limit to human
+population growth. Understanding this, Gilman re-introduces the ecological
+concept of carrying capacity in order to limit the maximum level of density her
+utopian society can attain. By limiting density she freezes Herland's
+development to maintain frontier conditions, creating a compromise between the
+unlimited individual freedom of the endless frontier and the ultimate
+restriction on cultural expression that results from maximum urban density.
 
-The society of Herland is a re-establishment of the frontier precisely because
-it rejects the conditions of density that are so fundamental to modernity.
+But in order to understand *Herland* as a response to the frontier, we have to
+understand the difference in its imaginative response to the frontier when
+compared with Norris's and Roth's work. Whereas the density-based, imagined
+frontiers in Norris and Roth were visible through analysis of the characters'
+spatial imaginations, Gilman's novel is itself an imaginative projection in
+complex response to the vanishing frontier. We can see evidence for this point
+in the way that Vandyck Jennings, her narrator and eventual Herland convert,
+frames his presentation of the utopian land. He refuses to locate it "for fear
+some self-appointed missionaries, or traders, or land-greedy expansionists,
+will take it upon themselves to push in" (33). Expansionism is the fear against
+which Herland must be protected; we can therefore deduce that it has not yet
+been subject to expansionism. More directly relevant to Turner's frontier
+thesis is the reason why Vandyck and his two friends discover Herland in the
+first place. They see Herland as an unexpected exception to the ultimate truth
+that "there was nothing left to explore now, only patchwork and filling in"
+(33). The death of the frontier is proclaimed due to exactly this situation in
+the 1890 census bulletin Turner quotes in his thesis: the single line of
+unsettled land no longer exists but has been replaced, to use Gilman's
+phrasing, with "patchwork and filling in" between settled lands. Herland is
+from the beginning established as an exception to this truth, a final frontier
+on Earth. 
 
-...
+The men discover that this is hardly Norris's frontier of jubilant savagery,
+though, as is evident from the way the Herlanders treat wildness. Gilman's
+re-construction of the frontier rewrites the entire narrative of expansionist
+progress, including the premise that increasing expansion and increasing
+density lead out of savagery and into civilization. Both density and expansion
+violate the principle of carrying capacity that is the basis of Gilman's entire
+society. The concept is introduced out of necessity, when a natural disaster
+shuts the women off from the rest of the world, making expansion impossible and
+creating conditions of resource scarcity. Scarcity and the impossibility of
+trade means that population growth will again be limited by the availability of
+food. They demonstrate that their treatment of non-human nature adheres to
+these rules in their discussion of other animals: when asked why they have no
+horses or llamas, a Herlander replies that they "do not want them anymore. They
+took up too much room---we need all our land to feed our people. It is such a
+little country, you know" (75). An expansionist perspective would cause them to
+go in search of more land, while a proponent of increasing density would search
+for a way to pack the animals in as few hectares as possible, or increase the
+yield of each animal to allow for more of everything in less space (compare
+this with the actual historical development of agriculture and livestock).
+Instead, Gilman has chosen conditions in which the former is impossible and the
+latter goes against the ethos of the community. When considering the
+possibility of density for animals that exists beyond Herland, the Herlanders
+become horrified to discover that the urban domesticated dog, "the friend of
+man, in the city, was a prisoner" (79). The dignity of the individual organisms
+in a system is just as important as its basic sustenance. 
 
-Herland, then, may adopt certain models of high-density community in the way
-that it mimics globalization's creation of a total system. But in the biosocial
-systems it establishes for itself, it makes density a structural impossibility
-by setting its carrying capacity at such a low level. To put this operation in
-terms of the frontier---for the frontier as it has been discussed here is
-finally a product of density---the controlled carrying capacity arrests the
-frontier as in a snow globe, preventing it from expanding or contracting. And
-with the frontier, it arrests frontier-like conditions of communalism.
 
-This is hardly Norris's frontier of jubilant savagery, though, as is evident
-from the way the Herlanders treat wildness. Gilman's re-construction of the
-frontier rewrites the entire narrative of expansionist progress, including the
-premise that increasing expansion and increasing density lead out of savagery
-and into civilization.
+This middle way Gilman proposes is only possible, of course, because the same
+limitations placed on the rest of the ecology are also extended to humans.
+Maintaining zero population growth is easy for Herlanders because conceiving
+(or not) is an act of decision at a certain point in a woman's life: they
+reproduce parthenogenetically and have full control over the process. This is
+the point at which the limited freedom of individual and cultural expression is
+most relevant, however, as it involves the most fundamental repression of
+individual impulses. For Gilman's system to work, a delicate balance of
+cultural development is required. Agency is suppressed in two senses. First,
+there can be no excessive individual agency in reproduction, resource
+cultivation, or individual industry. Freedom from scarcity is in direct
+conflict with freedom of action. Second, there is a unified political stance
+without room for rival views---nobody seems to want to leave Herland, despite
+two thousand years to mull it over---and no evidence of politics or policy
+discussion. But even though agency is suppressed, the culture has been
+"refined" through generations of communal input, implying a certain amount of
+collective political agency within the boundaries set by consensus. This is the
+sense in which reintroducing the concept of carrying capacity and limiting
+density creates a middle ground of political agency: a rational-seeming balance
+of individuality and collectivity that raises some serious questions about the
+need for dissensus in a truly free system.
 
-...
+### Conclusion
 
+The frontier, density, and political agency exist in a complex interplay in
+these three novels and, to the extent we take these as representative evidence,
+in the historical development of American modernity. Taken in concert, these
+novelists show us that 
 
-### Conclusion: The White Frontier
-
-It is no coincidence that a hermeneutic principle criticized for its
-indifference to history's victims fails to account for non-white literary
-histories. It hardly needs to be reiterated (and yet needs always to be
-reiterated despite) that the "hither edge of free land" in Turner's thesis had
-on the other side of it, not empty space, but societies that fall under the
+[^white-frontier]: It is no coincidence that a hermeneutic principle criticized
+for its indifference to history's victims fails to account for non-white
+literary histories. It hardly needs to be reiterated (and yet needs always to
+be reiterated despite) that the "hither edge of free land" in Turner's thesis
+had on the other side of it, not empty space, but societies that fall under the
 categorization of "savagery" in this estimation. But also absent from this
 frontier theory of literary density are the narratives of the invisible labor
 force pushing the frontier forward---a movement that, in Turner's hands, is
 entirely naturalized and without mechanism or agent, as though the frontier
-border were literally blown forth by the winds of "progress." 
-
-For black voices, a different perspective is required, but perhaps not an
-entirely new paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.] 
+border were literally blown forth by the winds of "progress."  For black
+voices, a different perspective is required, but perhaps not an entirely new
+paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.] 
 
 
 [^soil]: Bellamy Foster
