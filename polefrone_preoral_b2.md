@@ -1,34 +1,37 @@
 ---
 ---
 
+###Introduction
+
 If our only sources were political novelists like Frank Norris, Charlotte
 Perkins Gilman, and Henry Roth, we might reasonably conclude that to live
 between the turn of the century and the Depression was to be forever engaged in
 a frantic, claustrophobic search for the lost frontier. Norris's McTeague
 bursts out of a world crowded with drawing rooms, in which "nature is cosey,
 intimate, small, and homelike, like a good-natured housewife," and arrives
-triumphantly where the "entire region is untamed...a vast, unconquered brute of
-the Philocene epoch, savage, sullen, and magnificently indifferent to men"
-(209). In a neat, perhaps deliberate inversion some fifteen years later, Gilman
-creates a new kind of frontier for her male protagonists. Where the "savage"
-wilderness is replaced with precisely the "small," "homelike" natural world in
-which a combination of natural impediments and intentional population control
-prevent the all-female society from growing beyond a certain scale or
+doggedly to a land where the "entire region is untamed...a vast, unconquered
+brute of the Philocene epoch, savage, sullen, and magnificently indifferent to
+men" (209). In a neat, perhaps deliberate inversion some fifteen years later,
+Gilman creates a new kind of frontier for her male protagonists. Where the
+"savage" wilderness is replaced with precisely the "small," "homelike" natural
+world in which a combination of natural impediments and intentional population
+control prevent the all-female society from growing beyond a certain scale or
 population---and it is implied that this limitation causally prevents that
 savagery itself from developing. The commitment to or rejection of expansionism
 is reflected in the conception of the space itself, and more specifically how
 human communities interact with their natural environments.
 
-Whatever these two examples might suggest, the presence of something resembling
-"nature" or wilderness need not always define the search for the frontier. It
-is just as present in the motivations of the endless wave of immigrants landing
-in the densely packed and distinctly natureless apartment blocks of New York
-City in 1907. The geographical frontier was lost long before they
-arrived---declared dead in the preamble to the 1890 census (Turner 199). But
-despite the utter absence of its natural and geographic instantiations, the
-frontier exists for Roth's immigrants as a necessary commitment to invent new
-social formations that mediate between their existing cultural identity and
-material conditions of life that are entirely alien to them. 
+And yet whatever these two examples might suggest, the presence of something
+resembling "nature" or wilderness need not always define the search for the
+frontier. As a conceptual space, it is just as active in driving the endless
+wave of immigrants landing in the densely packed and distinctly natureless
+apartment blocks of Henry Roth's New York City in 1907. The geographical
+frontier was lost long before they arrived---declared dead in the preamble to
+the 1890 census (Turner 199). But despite the utter absence of its natural and
+geographic instantiations, the frontier exists for Roth's immigrants as a
+necessary commitment to adapt their existing social formations in such a way
+that they mediate between their existing cultural identity and the alien
+material conditions of their new life.
 
 Population density, and the concomitant changes in the material conditions of
 sustenance and production, define the difference between the frontier as it
@@ -36,60 +39,104 @@ exists in the work of these three authors. In all of their work, the actual or
 conceptual frontier gives rise to an *act of imaginative social projection* on
 the part of the characters or the narrative itself. But the gradient of density
 from Norris's work to Roth's corresponds to the attainability of these new
-formations and the perceived agency in resisting the dominant culture. Density,
-then, finally determines the amount of agency granted to the speculative mode
-of political creativity that the presence of a frontier tends to inspire.
+formations and the speculator's perceived agency in resisting the dominant
+culture. Density, then, finally determines the amount of agency granted to the
+speculative mode of political creativity that the presence of a frontier tends
+to inspire.
 
 On one pole, Norris's *McTeague* and *The Octopus* depict the search for the
 lost frontier for those whose spatial imagination is defined by areas of low
 population density. His American-born rural workers keep the American West and
 its ethos alive, although not necessarily stable, until their community
-structure is dismantled by the intervention of a global system based on
-density. On the other pole is Henry Roth's *Call It Sleep*, in which the only
-choices presented by what we might call the "full frontier" are one of two
-dominant cultures: assimilation to American culture or identification with an
-enclave of immigrant culture. The attempt to inhabit density without such
-acquiescence is nearly suicidal for individual and community alike. By
-suspending density, and thus the frontier, in a fixed state, Gilman presents a
-middle way, in which the dominant culture is subject to a constant process of
-inventive refinement without engaging in capitalist forms of unrestrained
-growth. Nevertheless, it is a middle state of political agency in the extent to
-which it makes dissensus impossible.
+structure is dismantled by the intervention of a global system based on (and
+reliant on) density. On the other pole is Henry Roth's *Call It Sleep*, in
+which the only choices presented by what we might call the "full frontier" are
+one of two dominant cultures: assimilation to American culture or
+identification with an enclave of immigrant culture. The attempt to inhabit
+density without such acquiescence is nearly suicidal for individual and
+community alike. Gilman presents a middle way. By suspending density, and thus
+the frontier, in a fixed state, her narrative creates conditions in which the
+dominant culture is subject to a constant process of inventive refinement
+without engaging in capitalist forms of unrestrained growth. Nevertheless, it
+is a compromise of political agency in the extent to which this totalizing (if
+flexible) dominant culture makes dissensus impossible.
 
 ### Materiality and Social Formation in the Frontier Thesis
 
->the frontier is the outer edge of the wave-- the meeting point between savagery
-and civilization.... The American frontier is sharply distinguished from the
-European frontier---a fortified boundary line running through dense
-populations. The most significant thing about the American frontier is, that it
-lies at the hither edge of free land. (200)
+Why link density with the frontier, though, and how is it possible that the
+frontier would have just as much to do with an urban setting as a rural one?
+Density's association with the frontier is in part the remnant of a bygone
+geographical measurement, but the cultural significance of this marginal state
+is established by Frederick Jackson Turner's influential discussion of the
+frontier's *end*. Geographically, the frontier is the "margin" of a settlement
+and an area with two inhabitants or fewer per square mile (US Census Bureau,
+Turner 199). But to Turner, the frontier is "is the outer edge of the wave--
+the meeting point between savagery and civilization," less a matter of figures
+than of valuation (200). 
 
-The version of social development that occurs in situations of high density
-includes the "evolution of institutions...such as the rise of representative
-government; the differentiation of simple colonial governments into complex
-organs; the progress from primitive industrial society, without division of
-labor, up to manufacturing civilization" (200). The process Turner describes
-has interesting (if, perhaps, unintended) resonances with a Marxist
-base-superstructure theory of historical development. Density relies not only
-on the material conditions of production and distribution but on the foundation
-of all material analysis, the conditions of the soil in an ever-changing
-landscape. But as the frontier continues and formerly unpopulated areas
-increase in density, a Europeanization of frontier development occurs, and the
-frontier begins to resemble heavily populated areas. As the frontier continues
-to move outwards, Turner suggests, we witness in what *was* frontier a
-"recurrence of the process of evolution in each western area reached in the
-process of expansion," or in other words, a shift from the limitless (American)
-paradigm of the frontier to the dense and limited (European) paradigm (200)
-Thus, the movement of the American frontier is not only a situation of changing
-density. It is a shifting dialectical relationship between land and social
-formations in which density figures as an essential middle term. 
+Nevertheless, in understanding the basis of this valuation, he draws an
+important link for frontier mentality with density itself:
 
-In the US --- frontier allows for the construction of the *local* as a
-community paradigm---a concept that relies dialectically on the destruction of
-localism through globalization. The "frontier" as a literary determinant is an
-act of mind arising in conditions of increasing density---a scramble to regain
-what is lost---and what is lost tends to be inflected with European communal
-structures[, especially in the case of immigrants.] 
+> The American frontier is sharply distinguished from the European frontier---a
+fortified boundary line running through dense populations. The most significant
+thing about the American frontier is, that it lies at the hither edge of free
+land. (200)
+
+What Turner calls the "hither edge of free land" we must in 2016 rephrase as
+the "hither edge of seizable land," but the distinction can nevertheless be
+useful. The relative density of contiguous areas gives rise to entirely
+distinct cultural forms. The European frontier is an imaginary line drawn based
+on premises entirely cultural and political. The American frontier is defined
+by the social and cultural tendencies that result from encounters with a more
+material (and therefore more fundamental) difference in land use.
+
+This material determination of social forms by density is too complex to be
+called mechanistic, but to Turner's mind it exhibits a clear trend in which the
+old-world and new-world material base give rise to drastically different types
+of development. The version of social development that occurs in situations of
+high density includes the "evolution of institutions...such as the rise of
+representative government; the differentiation of simple colonial governments
+into complex organs; the progress from primitive industrial society, without
+division of labor, up to manufacturing civilization" (200). European,
+high-density development takes the form of increasing complexity because
+expansion is impossible. This description has interesting (if, perhaps,
+unintended) resonances with a Marxist base-superstructure theory of historical
+development, in which changes to the "real foundation" of a given society
+correspond to changes in the "legal and political superstructure...to which
+correspond definite forms of social consciousness" (qtd. in Williams 75).
+Turner's major contribution in this light is to add population density as a
+major determinant in frontier contexts, but it is hardly a single determining
+variable. Conditions of high density rely not only on the material conditions
+of production and distribution. They also rely on the foundation of all
+material relations, the conditions of the soil in an ever-changing landscape
+(or the means to import the fruits of such soil from elsewhere).[^soil]
+Therefore, the European form of development-as-complexity *has* to take into
+consideration the conditions that enable it. For every high-density form of
+society, there is a division of labor that goes beyond its bounds, whether it
+is the "country" immediately beyond the "city" or someone else's country,
+coopted for the sustenance of cities far away.[^world-ecology] This elaboration
+will become important when discussing the frontier in the eyes of
+soil-conscious novelists like Norris and Gilman.
+
+The endless expanse of "country" in America, so long as it existed, allowed for
+continual development by expansion simultaneously with development by
+complexity. The frontier is continually settled then, a "wave" of density
+moving outwards, but in the region just behind the wave a Europeanization of
+frontier development occurs, and it begins to resemble development in heavily
+populated areas. As the frontier continues to move outwards, Turner suggests,
+we witness in what *was* frontier a "recurrence of the process of evolution in
+each western area reached in the process of expansion," or in other words, a
+shift from the limitless (American) paradigm of the frontier to the dense and
+limited (European) paradigm (200). Here, then, is the real loss of the
+frontier---not the loss of density *per se*, as the quantitative thinking of
+the census bureau might have us believe. The movement of the American frontier
+is a situation of changing density, but its loss results from a shifting
+dialectical relationship between land and social formations in which this
+density figures as an essential middle term. 
+
+In the literature, we see a response to this loss. The response takes the form
+of attempted reclamation, which is always impossible. But the form these
+responses take bears a clear relation to the relevant conditions of density.
 
 ### Community Without Density on the Vanishing Frontier
 
@@ -119,7 +166,7 @@ density is most distinctly evident in the cultural production it inspires:
 Presley's largely hypothetical "Epic of the West," which is abandoned when the
 truth of global markets becomes inescapable.
 
-# Immigrants and High-Density Frontier Communities
+### Immigrants and High-Density Frontier Communities
 
 Roth: reclaiming European community in high-density situations. 
 
@@ -147,7 +194,7 @@ globalization by contributing to its division of labor and make that globality
 more visible by sheer concentration of difference.
 
 
-# Limited Density, Frozen Frontier
+### Limited Density, Frozen Frontier
 
 Gilman: reconstruction of the frontier, narratively; invocation of the frontier
 in history and apocalyptic event. Limitation of density as a function of
@@ -176,7 +223,7 @@ and into civilization.
 ...
 
 
-# Conclusion: The White Frontier
+### Conclusion: The White Frontier
 
 It is no coincidence that a hermeneutic principle criticized for its
 indifference to history's victims fails to account for non-white literary
@@ -192,3 +239,7 @@ border were literally blown forth by the winds of "progress."
 For black voices, a different perspective is required, but perhaps not an
 entirely new paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.] 
 
+
+[^soil]: Bellamy Foster
+
+[^world-ecology]: Esp. Moore
