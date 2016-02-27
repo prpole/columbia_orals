@@ -268,31 +268,80 @@ depiction, we have to turn to Roth.
 
 ### Immigrants and High-Density Frontier Communities
 
-Roth: reclaiming European community in high-density situations. 
-
-Moment of maximum density: the entire community becomes focused in a single
-body, a moment resulting in death. Replaces localism and European communalism
-as the source of meaning. Mechanization/modernization of community
-
 It is impossible to reasonably sustain Turner's differentiation between the
-European and the American frontier for long, however, when we recognize that
-for many twentieth-century immigrants to America, the conditions necessary for
-the European, high-density "frontier" they left behind was mirrored in the
-high-density urban environments into which they arrived. In Henry Roth's
-depiction of this situation in *Call It Sleep*, the frontier is not threatened
-and vanishing by a global system of density, as it is in Norris's novels, nor
-is it arrested in a utopian state of purity as it is in Gilman's. For Roth's
+European and the American frontier for long when we recognize that for many
+twentieth-century immigrants to America, the conditions that define the
+European, high-density "frontier" were mirrored in the high-density urban
+environments into which they arrived. In Henry Roth's depiction of this urban
+life in *Call It Sleep*, the frontier is not threatened and vanishing by a
+global system of density, as it is in Norris's novels, nor is it arrested in a
+utopian state of purity as (we shall see) it is in Gilman's. For Roth's
 European-American, the frontier is simultaneously always already lost as an
 object of desire and paradoxically relocated onto Europe itself. But this
 ultimate unattainability of the frontier results in reproduction of the
-European communalism that frontier communities mimic, in the highest-density
-conditions imagineable. In these conditions of high density, globalization is
-in a dialectical relationship with localism: even as it dismantles the
-communities on which the very concept of "local" rely, it reproduces them in
-compressed miniature; these communities in turn both further the progress of
-globalization by contributing to its division of labor and make that globality
-more visible by sheer concentration of difference.
+European communities, even those of rural villages, but in the highest-density
+conditions imaginable. What they find is a sharply curtailed freedom to create
+any new social form that might account for the interaction between culture and
+the material conditions. Their choices, rather, are to accept one of two
+dominant cultural paradigms of their very full new world: the European
+traditions they come from or assimilationist American culture. In either case,
+the European-American frontier is of a kind with the high-density European
+frontier that Turner ignores[^turner-europeans] in the American urban
+landscape, with all the attendant political constraints. 
 
+In the first case, identification with European traditions, a peculiar
+operation occurs in the concept of the "frontier": when America proves to have
+lost the frontier in pursuit of which the immigrants arrived, the referent for
+a low-density lifestyle paradoxically reverts to the European landscape itself.
+One day, David's mother brings home "a picture of a small patch of ground full
+of tall green stalks, at the foot of which, tiny blue flowers grew" (169). In
+the context of their Lower East Side apartment, such open space is
+unimaginable, especially for David, who does not recognize the "tall green
+stalks" as corn. His mother has to tell him, "It grows out of the earth, you
+know, the sweet corn in the summer---it isn't made by pushcart peddlers" (169).
+The cultural loss of both agricultural knowledge and the social formations that
+come with it mirrors the loss of the frontier in Norris's narratives. The
+place that enables a more harmonious interplay between self and environment is
+always disappearing just before one gets there---and the form of its
+disappearance is density. 
+
+The American form of the frontier, then, disappears for European-American
+immigrants in its displacement onto an unattainable homeland. In its place is
+the European frontier, the "line running through dense populations" that Turner
+defines in his frontier thesis. In *Call It Sleep*, this "line" is established
+not by national boundaries, but by contiguous spheres of cultural influence in
+the areas of highest urban density. The limits of cultural expansion in this
+dense environment are established as the cultural loss that occurs when the
+boundaries of a cultural enclave are breeched by its members.
+
+Cultural loss takes two forms: assimilation and the threat of destruction. When
+David climbs to the roof of his building---a vista from which the entire city
+and all of its many cultural enclaves are available to him---he encounters Leo,
+a Polish-American Christian whom David finds immediately seductive (296-9). The
+artifacts of Leo's cultural difference so enthrall David that he eventually
+sells sexual access to his step-cousin for the price of a rosary, the ultimate
+act of cultural abnegation. Density in this case results in an encounter
+between cultures, nearly precluding David's access to his family's traditional
+culture. Because this traditional culture is David's nearest proxy to the space
+and culture represented in his mother's picture, assimilation threatens to
+overwrite low-density culture (the Old World, which has become for David the
+frontier image) with high-density culture (assimilation and cultural melange). 
+
+As with the lost rural communities of Norris's novels, the stirrings of a
+global economy can be credited with the loss of the cultural forms enabled by
+the frontier and areas of low density. Just outside the novel's consciousness
+are the economic forces motivating the increase in density, as the metropolitan
+division of labor requires more and more workers for its sustenance.
+Immigration forms a globalized version of the reserve army of labor, a term
+coined by Engels and picked up by Marx in the first volume of *Capital* to
+describe the surplus population maintained by the forces of capitalism to keep
+labor costs low (and therefore maintain the production of surplus value) (Marx
+352). The cultural expression of the reserve army of labor is cultural
+compression in urban conditions of density. What we see in Roth's narrative is
+that cultural agency---the agency to fully assimilate without consequence, to
+maintain a cultural identity in new material conditions, or to create an
+entirely new form that shares aspects of both---is suppressed by the inexorable
+forces of density.[^globalization-dialectic]
 
 ### Limited Density, Frozen Frontier
 
@@ -343,3 +392,16 @@ entirely new paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.]
 [^soil]: Bellamy Foster
 
 [^world-ecology]: Esp. Moore
+
+[^turner-europeans]: He does talk about the European character in the creation
+of frontiers, but he ignores the presence of the European-style, high-density
+frontier. 
+
+[^globalization-dialectic]: There isn't space to develop this, but I don't want
+to delete the following idea. In these conditions of high density,
+globalization is in a dialectical relationship with localism: even as it
+dismantles the communities on which the very concept of "local" rely, it
+reproduces them in compressed miniature. These communities in turn both further
+the progress of globalization by contributing to its division of labor and make
+that globality more visible by sheer concentration of difference.
+
