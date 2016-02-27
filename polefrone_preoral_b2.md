@@ -1,18 +1,33 @@
 ---
 ---
 
-B2 The Frontier Question
 
-Frontier Q: No Cather, No Jewett: 3 authors
 
-* Don't forget the dialectic and aufhebung/aufgehoben (verb/adj of
-    supercession)
+>the frontier is the outer edge of the wave-- the meeting point between savagery
+and civilization.... The American frontier is sharply distinguished from the
+European frontier---a fortified boundary line running through dense
+populations. The most significant thing about the American frontier is, that it
+lies at the hither edge of free land. (200)
 
-Norris: McTeague, The Octopus, The Pit
-
-Gilman: Herland, "The Yellow Wallpaper"?
-
-Roth: Call It Sleep
+The version of social development that occurs in situations of high density
+includes the "evolution of institutions...such as the rise of representative
+government; the differentiation of simple colonial governments into complex
+organs; the progress from primitive industrial society, without division of
+labor, up to manufacturing civilization" (200). The process Turner describes
+has interesting (if, perhaps, unintended) resonances with a Marxist
+base-superstructure theory of historical development. Density relies not only
+on the material conditions of production and distribution but on the foundation
+of all material analysis, the conditions of the soil in an ever-changing
+landscape. But as the frontier continues and formerly unpopulated areas
+increase in density, a Europeanization of frontier development occurs, and the
+frontier begins to resemble heavily populated areas. As the frontier continues
+to move outwards, Turner suggests, we witness in what *was* frontier a
+"recurrence of the process of evolution in each western area reached in the
+process of expansion," or in other words, a shift from the limitless (American)
+paradigm of the frontier to the dense and limited (European) paradigm (200)
+Thus, the movement of the American frontier is not only a situation of changing
+density. It is a shifting dialectical relationship between land and social
+formations in which density figures as an essential middle term. 
 
 In the US --- frontier allows for the construction of the *local* as a
 community paradigm---a concept that relies dialectically on the destruction of
@@ -112,3 +127,20 @@ communities on which the very concept of "local" rely, it reproduces them in
 compressed miniature; these communities in turn both further the progress of
 globalization by contributing to its division of labor and make that globality
 more visible by sheer concentration of difference.
+
+# Conclusion: The White Frontier
+
+It is no coincidence that a hermeneutic principle criticized for its
+indifference to history's victims fails to account for non-white literary
+histories. It hardly needs to be reiterated (and yet needs always to be
+reiterated despite) that the "hither edge of free land" in Turner's thesis had
+on the other side of it, not empty space, but societies that fall under the
+categorization of "savagery" in this estimation. But also absent from this
+frontier theory of literary density are the narratives of the invisible labor
+force pushing the frontier forward---a movement that, in Turner's hands, is
+entirely naturalized and without mechanism or agent, as though the frontier
+border were literally blown forth by the winds of "progress." 
+
+For black voices, a different perspective is required, but perhaps not an
+entirely new paradigm. ... [Speed round of Hurston, Invisible Man, Black Boy.] 
+
