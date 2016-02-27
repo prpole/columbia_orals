@@ -1,4 +1,5 @@
 ---
+geometry: margin=1in
 ---
 
 ###Introduction
@@ -140,26 +141,80 @@ responses take bears a clear relation to the relevant conditions of density.
 
 ### Community Without Density on the Vanishing Frontier
 
-McTeague concludes with the flight from high-density, settled city to the
-low-density frontier in which McTeague's brutish, uncivilized nature finds the
-last shreds of the environment in which it is able to be viable. Everything in
-these marginal zones works according to the laws of the American West in which
-he was raised, and which instilled in him a set of values and proclivities that
-are unable to withstand the "domesticated" culture of high-density
-environments.
+In Norris's novels, areas of low density are utopian spaces representing a
+freedom to live as one wants out of reach of modernity's rules and cultural
+restrictions. Communities of miners give McTeague an alternative social
+structure to the dominant "civilized" culture of the city in which is
+indefatigable nature finds a sort of peace (despite his death). *The Octopus*
+dramatizes the loss of the communal autonomy McTeague revels in. Presley and
+the rural farmers idealize their autonomy and political creativity, but are
+unable to save it from the logic of expansion: the "country" and its social
+forms are subsumed to the needs of the city. In other words, high-density
+subsumes low-density in the expanding division of labor.
 
-...
+It is strange to say that McTeague finds his fullest expression in the very
+environment kills him (the expanse of unsettled desert land makes his rescue
+impossible), but his own response to it leaves no room for doubt. The novel
+concludes with the flight from high-density, settled city to the low-density
+frontier in which McTeague's brutish, uncivilized nature finds the last shreds
+of the environment in which it is able to be viable. We must say "last shreds"
+because the fragility of the frontier is painfully clear: Iowa Hill, McTeague's
+first frontier destination, is a "one-street town" that was once "on the summit
+of a mountain, but the sides of this mountain have long since been
+'hydraulicked' away, so that the town now clings to a mere back bone" (209).
+The very environment on which McTeague's full self-expression relies is being
+stripped for the raw materials high-density development requires---with special
+emphasis put on the industrial means of production with "hydraulicked," a word
+emphasizing the complexity and scale of the operation. 
 
-In the Octopus, the more fundamental relations of the low-density local---the
-individual ranch, the community of farmers, the commonwealth---is destroyed by
-its incorporation in a larger division of labor maintained and determined by
-areas of greater density. A modern agricultural system is being built, and with
-violence a flow of material energy in the form of nutrients is being
-established, its tons of wheat flowing from the low-density communities of
-farmers to the high-density urban communities. The "frontier," inasmuch as it
-exists, exists in the minds of the farmers who believe that, by enclosure and
-by recusing themselves from the global market, they can hold on to the
-autonomous communal structures. 
+McTeague in part identifies with the land itself, but also the communal
+structures that arise from it. When he finds "a resemblance between his present
+work [as a miner] and the profession he had been forced to abandon," he is
+really recognizing his attempt to maintain a low-density identity in a
+high-density environment. He is also recalling that he "had been forced to
+abandon" dentistry because of the complex legal structures density
+necessitates: where he was able to simply *do* dentistry in his frontier
+apprenticeship, legal strictures force him to discontinue his practice in the
+city. Everything in these marginal zones works according to the laws of the
+American West in which he was raised, and which instilled in him a set of
+values and proclivities that are unable to withstand the "domesticated" culture
+of high-density environments. The fundamental proposition of base and
+superstructure that Raymond Williams identifies somewhat dubiously, "that
+social being determines consciousness," is true in Norris's universe, but it
+can be specified: conditions of density determine social being, which in turn
+determines consciousness (Williams 75).
+
+McTeague moves from high density to low, and thereby regains (however briefly)
+the agency to live in a social structure from which he is not estranged; the
+more representative narrative depicts the loss of low-density community
+structures in the face of the dominant culture of density. In *The Octopus*,
+the more affirming social relations of low-density localism---the individual
+ranch, the community of farmers, the commonwealth---are destroyed by the
+margin's incorporation in a larger division of labor determined and controlled
+by areas of greater density. As a modern agricultural system is being built,
+its beneficiaries violently establish a flow of material energy in the form of
+nutrients, with tons of wheat flowing from the low-density communities of
+farmers to the high-density urban communities. The narrative maps to the life
+cycle of a single crop of wheat, from sowing the seeds to distributing the
+harvest; but in the process, the product is appropriated by the forces
+establishing a global distribution of nutrients. In the simpler, less developed
+division of labor in lower-density communities, the farmer would be responsible
+for every step in the process and the energy embodied in the harvest would stay
+local to the community. Instead, capital and energy alike both flow to the
+higher-density urban areas (represented by Shelgrim and the city council he
+keeps in his pocket), destroying the sustaining base of low-density social
+structures. 
+
+In the context of this wholesale destruction (or, perhaps, destruction by
+wholesale), the "frontier" becomes a concept for resistance. It only exists in
+the minds of the farmers who believe that, by voluntary enclosure and by
+recusing themselves from the global market, they can hold on to the autonomous
+communal structures. This in turn requires the invention of new political and
+legal structures. But these structures can only become *actual* rather than
+merely speculative with the political agency enabled by the low-density
+frontier. The ultimate defeat of these farmers---the infiltration and
+destruction of their movement for change---becomes coextensive with the final
+destruction of the frontier in the Joaquin Valley.
 
 Perhaps more accurately, the "frontier" as the glorification of low population
 density is most distinctly evident in the cultural production it inspires:
