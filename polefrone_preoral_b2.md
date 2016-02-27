@@ -1,7 +1,23 @@
 ---
 ---
 
-
+If our only sources were political novelists like Frank Norris, Charlotte
+Perkins Gilman, and Henry Roth, we might reasonably conclude that to live
+between the turn of the century and the Depression was to be forever engaged in
+a frantic, claustrophobic search for the lost frontier. Norris's McTeague
+bursts out of a world crowded with drawing rooms, in which "nature is cosey,
+intimate, small, and homelike, like a good-natured housewife," and arrives
+triumphantly where the "entire region is untamed...a vast, unconquered brute of
+the Philocene epoch, savage, sullen, and magnificently indifferent to men"
+(209). In a neat, perhaps deliberate inversion some fifteen years later, Gilman
+creates a new kind of frontier for her male protagonists. Where the "savage"
+wilderness is replaced with precisely the "small," "homelike" natural world in
+which a combination of natural impediments and intentional population control
+prevent the all-female society from growing beyond a certain scale or
+population---and it is implied that this limitation causally prevents that
+savagery itself from developing. But whatever one might expect, the presence of
+something resembling "nature" or wilderness need not always determine the
+presence of the frontier.
 
 >the frontier is the outer edge of the wave-- the meeting point between savagery
 and civilization.... The American frontier is sharply distinguished from the
