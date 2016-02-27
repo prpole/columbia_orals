@@ -15,9 +15,25 @@ wilderness is replaced with precisely the "small," "homelike" natural world in
 which a combination of natural impediments and intentional population control
 prevent the all-female society from growing beyond a certain scale or
 population---and it is implied that this limitation causally prevents that
-savagery itself from developing. But whatever one might expect, the presence of
-something resembling "nature" or wilderness need not always determine the
-presence of the frontier.
+savagery itself from developing. The commitment to or rejection of expansionism
+is reflected in the conception of the space itself, and more specifically how
+human communities interact with their natural environments.
+
+Whatever these two examples might suggest, the presence of something resembling
+"nature" or wilderness need not always define the search for the frontier. It
+is just as present in the motivations of the endless wave of immigrants landing
+in the densely packed and distinctly natureless apartment blocks of New York
+City in 1907. The geographical frontier was lost long before they
+arrived---declared dead in the preamble to the 1890 census (Turner 199). But
+despite the utter absence of its natural and geographic instantiations, the
+frontier exists for Roth's immigrants as a necessary commitment to invent new
+social formations that mediate their existing cultural identity and material
+conditions that are entirely alien to them. 
+
+Population density, and the concomitant changes in the material conditions of
+sustenance and production, define the difference between the frontier as it
+exists in the work of these three authors. On one pole, Norris's *McTeague* and
+*The Octopus* 
 
 >the frontier is the outer edge of the wave-- the meeting point between savagery
 and civilization.... The American frontier is sharply distinguished from the
