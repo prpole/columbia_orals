@@ -243,7 +243,7 @@ absolute separation is as strangling as partial separation is nourishing.
 Latour learns that another nearby village with similar spatial characteristics
 "perished from hunger" when their lone "stairway...was broken off by a great
 storm many centuries ago" (96). The danger of absolute autonomy is set next to
-its cultural necessity in a way similar depictions in *Professor* are unable to
+its cultural necessity in a way similar meditations in *Professor* do not
 recognize.
 
 The reason for this middle state between absolute separation and uncomplicated
@@ -259,7 +259,58 @@ historical conquest---all combined with a sensitivity to difference in his
 interactions with the half-converted indigenous people of New Mexico. While it
 is unclear to what extent he is conscious of this goal, Cather sets up Latour's
 character arc as the earnest pursuit of his religious mission while trying not
-to replicating the sins of historical conquest.
+to replicating the sins of historical conquest. While he takes a certain amount
+of pleasure in the ruins of an "enclosed garden" in the mission's cloisters, he
+likewise recognizes that they only exist because of conquest: "The rock of
+Ácoma had never been taken by a foe but once,---by Spaniards in armour" (102,
+97). This conflict comes to bear directly on the question of the closed system.
+On one hand, Latour recognizes the homology between the autonomous religious
+culture of the Ácoma and "the Hebrews of the Old Testament, always being
+carried captive into foreign lands,---their rock was an idea of God, the only
+thing their conquerors could not take from them" (97). By drawing the
+comparison, he implicitly grants the Ácoma's unredeemed culture dignity within
+a Judeo-Christian system of valuation. On the other hand, he (if not Cather)
+stops just short of realizing that the same path forged by a predecessor,
+Father Ramirez, causes the subjugated Ácomas to carry raw materials from far
+and wide to build the mission, ultimately violating its cultural and ecological
+autonomy. The physical space itself becomes a medium for this conflict.
+
+The wasted traces of a once-verdant cloister garden indicate the faded presence
+of conquest, the uneasy peace established between religious incursion and
+cultural autonomy. It is a distinctly ecological resolution: when an
+overreaching, overtly despotic priest, Fray Baltazar, is violently removed from
+his command at the head of the Ácoma mission, the change Cather most emphasizes
+is a change in the ecological regime: "The women took pleasure in watching the
+garden pine and waste away from thirst...the whitening foliage of the peach
+trees, and the green grapes shriveling on the vines" (114). The land is
+returned to the ecological state Latour simultaneously admires and fears: the
+barrenness in which the only hardy plant is datura. The solution to the problem
+of cultural mixing without conquest is a priest "who was well satisfied with
+beans and jerked meat, and let the pueblo turkey flock scratch in the hot dust
+that had once been Baltazar's garden" (114). Violations of ecological autonomy
+become both a figure and a material part of historical and spiritual conquest.
+The closed system is an essential figure for Cather in pointing out the mutual
+determinacy of these strains of history.
+
+<br>
+
+These two examples of the ecotopian imagination should make clear that the
+purpose of the interpretive method is not to *solve* the problems of the
+current historical and ecological moment with visions from the past. Rather, it
+is to incorporate the analysis of ecotopian structures into analysis of
+cultural, ecological, and literary history: to trace the path of Jameson's
+"comet" by the "sparks" it emits, and to know more about both comet and spark
+as a result. This analysis has provided two examples in which the full
+significance of a socio-spatial image cannot be understood without some
+investigation of the ecological base---the agricultural methods and physical
+structures that give rise to social systems and the built environment. In
+choosing such similar images in works by a single author, I hope that I have
+sufficiently demonstrated the complex mutual determination between the material
+traces scattered across such images and the way those images interact with the
+larger thematic apparatuses of the novels in which they appear. Above all, I
+hope I have demonstrated that material traces can usefully be read in a novel's
+setting---thereby pointing the way for a new type of ecological "surface
+reading" that can usefully complicate existing Utopian reading methods.
 
 [^housekeeping]: I will try not to spend too much time discussing this
 housekeeping *per se*, as I have already written on the topic at length in a
