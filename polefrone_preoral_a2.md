@@ -134,17 +134,17 @@ to elaborate in detail the moment they encounter the cliff city, because any
 Utopian construct, as Jameson shows elsewhere, arises as a complex response
 that exceeds the possibilities of its moment.[^utopian-moment] 
 
-What Tom connects with so strongly in the cliff city---and, one might
-reasonably suggest, *reads into* the traces of the cliff city---is the elements
-that make it self-sustaining and, therefore, socially and politically
-autonomous. The details he picks out emphasize the conditions necessary for
-autonomy, and his interpretation of them show that his perception of them is
-colored by the difference in his own identity in terms of the dominant culture
-of the *oikos*. The bulk of the details he picks out place emphasis on the
-natural protections offered by the cliff city's location. He offers a litany of
-evidence for the cleanliness and absolute lack of "disorder" in the cliff city:
-"everything seemed open and clean," he says, and almost every stone surface
-that is described has been "smoothly polished" and remains so (206, 211). Every
+What Tom connects with so strongly in the cliff city---and, I suggest, *reads
+into* the physical traces of the cliff city---is the elements that make it
+self-sustaining and, therefore, socially and politically autonomous. The
+details he picks out emphasize the conditions necessary for autonomy, and his
+interpretation of them show that his perception of them is colored by the
+difference in his own identity in terms of the dominant culture of the *oikos*.
+The bulk of the details he picks out place emphasis on the natural protections
+offered by the cliff city's location. He offers a litany of evidence for the
+cleanliness and absolute lack of "disorder" in the cliff city: "everything
+seemed open and clean," he says, and almost every stone surface that is
+described has been "smoothly polished" and remains so (206, 211). Every
 implication is that an area with fewer natural protections would in some way
 have degraded, but that the very features that kept the cliff city
 self-sustaining and autonomous for its inhabitants has also allowed it to
@@ -164,10 +164,35 @@ or emulation, with no incentive but some natural yearning for order and
 security," contrasting them with an earlier description of other civilizations
 as murderous and bloodthirsty. Everything that Tom's recollection includes
 about the physical space points to the link between the agricultural system and
-the autonomous cultural unit it enables in the cliff city. What he needs in
+the autonomous cultural unit it enables in the cliff city. What he needs out of
 this space is protection and the ability to develop his own way of being in the
-world, and he discovers it in his interpretation of the physical space and its
-agricultural support system. 
+world, and he creates the conditions to satisfy this need in his interpretation
+of the physical space and its agricultural support system.
+
+But ultimately, for the purposes of the *novel* (if such can be separated from
+Tom's own needs as a character), the space provides an opportunity to meditate
+on the conditions under which alternative forms of domestic labor could exist.
+The agricultural system that supports the space of the cliff cities enables the
+development of this system by providing different labor conditions than those
+that pertained in the development of America. Agricultural production for the
+sake of stockpiling implies a seasonal division of different types of labor,
+with the society's resources put to the task of sowing and harvesting for part
+of the year and devoted to communal "housekeeping" and leisure for the rest of
+it. The non-agricultural part of the year appears to lead to novel social
+formations: Tom finds evidence of a communal kitchen, which is a recurring
+theme in the minds of Utopian domestic labor reformers like Charlotte Perkins
+Gilman, and the description of individual domiciles stacked like a "beehive"
+implies a greater degree of communalism and shared space than that which
+defines the American home. 
+
+To summarize, while Tom's own ecotopian imagination merely emphasizes autonomy,
+separation, and protection in his interpretation of the cliff city's physical
+remains, Cather puts to use the social inventiveness the space enables in
+pursuing the larger theme of domestic labor in her novel. The essential
+aspect of the ecotopian imagination revealed in Cather's case is that imagining
+novel social forms necessitates imagining the material conditions in which they
+would arise: the hazily defined communalism relies on the specific agricultural
+system of the cliff city. 
 
 [^housekeeping]: I will try not to spend too much time discussing this
 housekeeping *per se*, as I have already written on the topic at length in a
