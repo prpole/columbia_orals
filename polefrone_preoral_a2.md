@@ -55,7 +55,7 @@ ecotopian analysis must do. I will then take the term as an occasion to read
 two related moments in two Willa Cather novels against each other, asking how
 two different imaginative reconstructions of a single space ...[etc]
 
-***
+<br>
 
 Walter Benjamin tells us in his "Theses on the Philosophy of History" that to
 make an historical articulation of the past "means to seize hold of a memory as
@@ -99,3 +99,79 @@ space contribute to the thematic apparatus of the text? This last point can be
 further specified to emphasize situations in which difference of any sort,
 perhaps especially sexual difference and cultural "contact zones," comes into
 play. 
+
+Willa Cather's novel *The Professor's House* (the "Tom Outland's Story" section
+specifically) offers an excellent starting point for this analysis, as it is
+one of two novels from her that offer ecotopian presentations of what amount to
+the same space in many senses, cliff cities in differing states of ruin. While
+the cliff city in *Death Comes for the Archbishop* was built by Ácoma, the city
+in *The Professor's House* was the home of a long-dead and unknown tribe; this
+detail is important for reasons that will be discussed, but the narrative
+purpose of the spaces is quite similar. 
+
+The time when the cliff city in *Professor* is discovered puts a special
+emphasis on its status as an alternative domicile that functions differently
+from the "home" in the moment's dominant culture. Tom Outland, an orphaned
+young man working as a cowboy when the story takes place, is tending a herd
+with a friend, Roddy. Most critics agree that Tom and Roddy have a heterosocial
+relationship with strong romantic overtones, but this romance only expresses
+itself in the alternative family unit Tom and Roddy establish with their
+assistant and temporary housekeeper, Henry. At the time the Ácoma cliff city is
+discovered, the three of them have established routines of masculine
+housekeeping that forms a strong counterpoint with the traditional,
+heterosexual forms of housekeeping that dominate the novel's narration and
+thematic arc.[^housekeeping] By the time Tom discovers the cliff city, these
+men have already formed a kind of Utopian enclave of their own: none of them
+has been able to exist to their comfort in the heterosexual, capitalist form of
+the home; all are on the run from the dominant culture of the *oikos* in one
+sense or another. I use the term *oikos* to denote the intersection of the
+"home," *oikos*'s literal translation from the Greek, and economy and ecology,
+which have *oikos* in their etymological root (oiko-nomia and oiko-logia). This
+temporary Utopian space of the cabin, however, is defined by impermanence, and
+it is understood that all of them will have to move on soon to a situation
+where their difference will again cause them to be ostracized. It is important
+to elaborate in detail the moment they encounter the cliff city, because any
+Utopian construct, as Jameson shows elsewhere, arises as a complex response
+that exceeds the possibilities of its moment.[^utopian-moment] 
+
+What Tom connects with so strongly in the cliff city---and, one might
+reasonably suggest, *reads into* the traces of the cliff city---is the elements
+that make it self-sustaining and, therefore, socially and politically
+autonomous. The details he picks out emphasize the conditions necessary for
+autonomy, and his interpretation of them show that his perception of them is
+colored by the difference in his own identity in terms of the dominant culture
+of the *oikos*. The bulk of the details he picks out place emphasis on the
+natural protections offered by the cliff city's location. He offers a litany of
+evidence for the cleanliness and absolute lack of "disorder" in the cliff city:
+"everything seemed open and clean," he says, and almost every stone surface
+that is described has been "smoothly polished" and remains so (206, 211). Every
+implication is that an area with fewer natural protections would in some way
+have degraded, but that the very features that kept the cliff city
+self-sustaining and autonomous for its inhabitants has also allowed it to
+remain so for the duration between their departure and Tom's arrival. He also
+gives a great deal of attention to the presence of a cold spring, and later an
+archaeologically minded priest (probably an anticipation of Latour from *Death
+Comes for the Archbishop*) points out the presence of granaries (217). It is
+finally revealed that the inhabitants of this cliff city kept their farms and
+their home separate, practicing agriculture and hunting in the plains beyond
+the city and stockpiling grain to be as self-sufficient as possible (216-20).
+The final detail and the one most distinctly held up for celebration is that
+this agricultural model of external growth and internal stockpiling allows the
+independent development of cultural and social forms that have no external
+influence or determinant. Father Duchene describes them, based on the same
+traces Tom and Roddy have seen, as "cut off here without influence of example
+or emulation, with no incentive but some natural yearning for order and
+security," contrasting them with an earlier description of other civilizations
+as murderous and bloodthirsty. Everything that Tom's recollection includes
+about the physical space points to the link between the agricultural system and
+the autonomous cultural unit it enables in the cliff city. What he needs in
+this space is protection and the ability to develop his own way of being in the
+world, and he discovers it in his interpretation of the physical space and its
+agricultural support system. 
+
+[^housekeeping]: I will try not to spend too much time discussing this
+housekeeping *per se*, as I have already written on the topic at length in a
+paper I turned in to Prof. Graham last year. Suffice it to say there is a lot
+more to this housekeeping than meets the eye. 
+
+[^utopian-moment]: uh prove this
