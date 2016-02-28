@@ -148,17 +148,25 @@ described has been "smoothly polished" and remains so (206, 211). Every
 implication is that an area with fewer natural protections would in some way
 have degraded, but that the very features that kept the cliff city
 self-sustaining and autonomous for its inhabitants has also allowed it to
-remain so for the duration between their departure and Tom's arrival. He also
-gives a great deal of attention to the presence of a cold spring, and later an
+remain so for the duration between their departure and Tom's arrival.
+Cleanliness due to what Tom calls nature's "housekeep[ing]" becomes a physical
+marker of the natural protections offered by the cliff city (206). For a novel
+intimately concerned with history, housekeeping, and personal autonomy, this is
+an important association.
+
+Of more immediate concern are the traces of sustainable infrastructure that
+allow Tom's imagination to pivot from the purely descriptive spatial
+imagination to the more obviously Utopian social imagination. Tom gives a great
+deal of attention to the presence of a cold spring, and later an
 archaeologically minded priest (probably an anticipation of Latour from *Death
-Comes for the Archbishop*) points out the presence of granaries (217). It is
+Comes for the Archbishop*) points out the presence of granaries (217).  It is
 finally revealed that the inhabitants of this cliff city kept their farms and
 their home separate, practicing agriculture and hunting in the plains beyond
 the city and stockpiling grain to be as self-sufficient as possible (216-20).
 The final detail and the one most distinctly held up for celebration is that
 this agricultural model of external growth and internal stockpiling allows the
 independent development of cultural and social forms that have no external
-influence or determinant. Father Duchene describes them, based on the same
+influence or determinant. Father Dûchene describes them, based on the same
 traces Tom and Roddy have seen, as "cut off here without influence of example
 or emulation, with no incentive but some natural yearning for order and
 security," contrasting them with an earlier description of other civilizations
@@ -182,17 +190,76 @@ it. The non-agricultural part of the year appears to lead to novel social
 formations: Tom finds evidence of a communal kitchen, which is a recurring
 theme in the minds of Utopian domestic labor reformers like Charlotte Perkins
 Gilman, and the description of individual domiciles stacked like a "beehive"
-implies a greater degree of communalism and shared space than that which
+implies a greater degree of communal existence and shared space than that which
 defines the American home. 
 
 To summarize, while Tom's own ecotopian imagination merely emphasizes autonomy,
 separation, and protection in his interpretation of the cliff city's physical
-remains, Cather puts to use the social inventiveness the space enables in
-pursuing the larger theme of domestic labor in her novel. The essential
-aspect of the ecotopian imagination revealed in Cather's case is that imagining
-novel social forms necessitates imagining the material conditions in which they
-would arise: the hazily defined communalism relies on the specific agricultural
-system of the cliff city. 
+remains, Cather uses the social inventiveness the space enables in pursuing the
+larger theme of domestic labor in her novel. The essential aspect of the
+ecotopian imagination revealed in Cather's case is that imagining novel social
+forms necessitates imagining the material conditions in which they would arise:
+the hazily defined community relies on the specific agricultural system of the
+cliff city. 
+
+A very similar relationship exists between the agricultural model and physical
+space in the Ácoma cliff city in *Death Comes for the Archbishop*, and many of
+the same physical traces remain. But because the space exists in a complex
+middle ground between the human desires of Father Latour and Cather's narrative
+requirements for the novel as a whole (not to mention her own desires), the
+spatial imaginary is notably different. 
+
+Many of the defining features of this spatial-economic dyad return in *Bishop*.
+The Ácoma share the same division of interior and exterior space, with physical
+needs satisfied by agriculture and hunting beyond the walls of the cliff city
+and the city itself standing as a hybrid of safety and culture. The
+interpretation of them, however, shifts according to the circumstances of the
+novel. Everything that Father Latour sees is cast in a religious light: mesas
+are "generally Gothic in outline, resembling vast cathedrals"; Earth and heaven
+become coextensive in the site of the mesas, which are "inconceivable without
+their attendant clouds, which were part of them, as the smoke is part of the
+censer"; the safety of the perch is glossed as "Sanctuary!" (94,95,97). The
+spatial imagination---not to say that it is precisely ecotopian in these
+instances---shows its brush strokes, dabbing religious significance over the
+city and its setting in what is clearly Latour's own perspective.
+
+Descriptions which we might rightly attribute to Latour are hardly the only
+sites of religious re-casting, however. The narrative construction of physical
+space---and perhaps most important, the narration *of* the space's
+construction---likewise account for the different narrative requirements for
+the space. The architectural corollary to a watchtower in *The Professor's
+House* is a church spire in the crumbling Ácoma mission, adding spiritual
+redemption to physical protection. Reading this structure is somewhat
+complicated by the knowledge that the Ácoma mission is an actually existing
+site, and not the result solely of narrative construction. But there is room to
+trace Cather's spatial invention the margins of the actual space: with
+"deep-worn paths...washed white and clean" like the hallmarks of the cliff city
+in *Professor*, she leads us again to "cisterns...full of fresh rain water"
+that allow, in combination with "a secret spring below," human life to thrive
+where the only other life is poisonous nightshade (98-9). Sustaining
+infrastructure again leads to absolute separation, autonomy, and the
+maintenance of difference up to a certain point. But unlike in *Professor*,
+absolute separation is as strangling as partial separation is nourishing.
+Latour learns that another nearby village with similar spatial characteristics
+"perished from hunger" when their lone "stairway...was broken off by a great
+storm many centuries ago" (96). The danger of absolute autonomy is set next to
+its cultural necessity in a way similar depictions in *Professor* are unable to
+recognize.
+
+The reason for this middle state between absolute separation and uncomplicated
+intercourse with the rest of the world is clarified by context: the space is an
+occasion for meditation on the role of the closed system in ecological,
+historical, and spiritual terms, all of which perspectives are essential to the
+novel in varying degrees. Indeed, these perspectives can be said to come
+together, even come to conflict, in the depiction of the Ácoma city. Latour's
+journey is ultimately a religious mission, a pursuit of spiritual change and
+cultural erasure. Among the thematic tensions of the novel is the contradiction
+between a religious perspective of necessary salvation and consciousness of
+historical conquest---all combined with a sensitivity to difference in his
+interactions with the half-converted indigenous people of New Mexico. While it
+is unclear to what extent he is conscious of this goal, Cather sets up Latour's
+character arc as the earnest pursuit of his religious mission while trying not
+to replicating the sins of historical conquest.
 
 [^housekeeping]: I will try not to spend too much time discussing this
 housekeeping *per se*, as I have already written on the topic at length in a
