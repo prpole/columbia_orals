@@ -54,3 +54,48 @@ Future*, setting it against the recent surface reading movement to ask what an
 ecotopian analysis must do. I will then take the term as an occasion to read
 two related moments in two Willa Cather novels against each other, asking how
 two different imaginative reconstructions of a single space ...[etc]
+
+***
+
+Walter Benjamin tells us in his "Theses on the Philosophy of History" that to
+make an historical articulation of the past "means to seize hold of a memory as
+it flashes up at a moment of danger"---for such an image of the past
+"only...flashes up at the instant when it can be recognized" (255). In moments
+such as this, when a globalized system of production has rearranged the pieces
+of the world and disrupted most regional ecosystems, images of enclosed systems
+are particularly recognizable as environmentally useful paradigms. Jameson
+identifies such images as fundamental to Utopianism. He defines "totality" as
+"precisely this combination of closure and system, in the name of autonomy and
+self-sufficiency" and says that such totality can be "ultimately the source
+of...otherness or radical, even alien, difference" (5). From an environmental
+perspective, this framing of Utopianism is quite appealing. In the first place,
+the closed system has been an important aspect of ecological thought since
+ecological thought existed. Whether in the form of Darwin's discoveries in the
+Galapagos, the Biosphere 2 lab in Arizona, or "Spaceship Earth" as an early
+paradigm of sustainability in U.S. political discourse, the concept recurs in
+many different forms. 
+
+It remains to be seen what the Utopian version of this closure brings to
+ecological analysis that ecological analysis does not already have. The
+emphasis on autonomy and self-sufficiency offers the beginnings of an answer:
+these concepts forge a link between the closed ecological system and historical
+instances of separation and autonomy, letting one ask how ecological factors
+might interact with concepts of the nation state and sovereignty.  Emphasizing
+"difference" as a feature of Utopian totality may also let us draw lines
+between the evolutionary processes of differentiation, ecological diversity,
+and difference in the sense of culture and identity. What ends up being seen in
+many cases is that ecological differentiation tends to go hand in hand with
+other forms of difference: sexual, national, economic, and "cultural" more
+broadly.
+
+In asking what using the ecotopian imagination as a basis of inquiry can show
+us about a text, then, we must pose several pointed questions. First, what is
+the closed system in question, and in what conditions does it arise? Second,
+what unique characteristics can we detect in the material conditions of this
+closed system---its ecology, spatial characteristics, built environment---and
+what can this *reading for material* tell us about the social systems those
+material traces enable? And finally, how do the material aspects of this unique
+space contribute to the thematic apparatus of the text? This last point can be
+further specified to emphasize situations in which difference of any sort,
+perhaps especially sexual difference and cultural "contact zones," comes into
+play. 
